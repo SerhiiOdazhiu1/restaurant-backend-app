@@ -1,0 +1,10 @@
+﻿bin/
+obj/
+.vs/
+syndicate_venv/
+.syndicate/
+bundles/
+outputs/
+.syndicate-config-restaurant-backend-app/logs/
+*.user
+*.suo
